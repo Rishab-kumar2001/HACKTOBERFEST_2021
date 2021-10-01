@@ -55,4 +55,10 @@
  
  - Place: Berlin, Germany
  - Bio: Masters(CS) Student
- - Github: [SanaaShah](https://github.com/SanaaShah)
+ - Github: [SanaaShah](https://github.com/SanaaShah) 
+
+  ### Name: Kartik Agarwal
+ 
+ - Place: Agra, India
+ - Bio: Bachelor's (CSE MSCKiiT) Student 
+ - Github: [CodingBlood](https://github.com/CodingBlood)
