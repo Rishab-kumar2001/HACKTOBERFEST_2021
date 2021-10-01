@@ -60,5 +60,5 @@
   ### Name: Kartik Agarwal
  
  - Place: Agra, India
- - Bio: Bachelor's (CSE) Student
+ - Bio: Bachelor's (CSE MSCKiiT) Student 
  - Github: [CodingBlood](https://github.com/CodingBlood)
