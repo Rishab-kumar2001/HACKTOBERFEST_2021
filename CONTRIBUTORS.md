@@ -69,3 +69,9 @@
  - Place: Ranchi, India
  - Bio: Bachelor's (CSE MSCKiiT) Student 
  - Github: [eshaananand](https://github.com/eshaananand)
+
+  ### Name: Mahima Tantiya
+ 
+ - Place: Kolkata, India
+ - Bio: Bachelor's (CSE KiiT) Student 
+ - Github: [tmahima] (https://github.com/tmahima)
