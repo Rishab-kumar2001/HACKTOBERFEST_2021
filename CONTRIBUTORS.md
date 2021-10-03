@@ -141,4 +141,10 @@
  
  - Place: Kolkata, India
  - Bio: Bachelor's (CSE KiiT) Student 
- - Github: [tmahima] (https://github.com/tmahima)
+ - Github: [tmahima](https://github.com/tmahima)
+
+ ### Name: Rishab Kumar
+ 
+ - Place: Kolkata, India
+ - Bio: Bachelor's (CSE KiiT) Student 
+ - Github: [Rishab-kumar2001](https://github.com/Rishab-kumar2001)
